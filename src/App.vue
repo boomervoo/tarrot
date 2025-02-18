@@ -1,6 +1,5 @@
 <script setup lang="ts">
-    import BackgroundAnimation from './components/BackgroundAnimation.vue';
-    import Default from '@/layouts/default.vue';
+import Default from '@/layouts/default.vue';
 </script>
 
 <template>
@@ -8,6 +7,5 @@
 </template>
 
 <style>
-    @import '@/assets/css/main.css';
-    @import 'tailwindcss';
+@import '@/assets/css/main.css';
 </style>
